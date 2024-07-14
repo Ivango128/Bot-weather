@@ -21,7 +21,7 @@ def get_temperature(lat, lon):
         print(f"Ошибка: {response.status_code}")
         return None
 
-
+#sdasdasda
 import telebot
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 
